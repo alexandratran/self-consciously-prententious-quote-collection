@@ -1,0 +1,52 @@
+/*body, html {
+  height: 100%;
+}*/
+body {
+  background-image: url("books.JPG");
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #101010;
+}
+div {
+  width: 350px;
+  /*height: 100%;*/
+  background-color: rgba(0,0,0,.30);
+}
+
+/*.dark{
+  -color: #989898;
+  color: #D8D8D8;
+  font-size: 30px;
+  font-family: Georgia, serif;
+  letter-spacing: -2px;
+}
+
+.light{
+  -color: #B8B8B8;
+  color: white;
+  font-size: 30px;
+  font-family: Georgia, serif;
+  letter-spacing: -2px;
+}*/
+
+.quote {
+  width:350px;
+  font-size: 14px;
+  font-family: "Lucida Console", Monaco, monospace;
+  /*color: #B8B8B8;*/
+  color: white;
+}
+.quote:hover {
+  background-color:rgba(0,0,0,.75);
+  border-radius: 4px;
+  width:400px;
+  font-size:16px;
+  margin-left:-50%;
+  margin-right:-50%;
+}
+/*.header:hover{
+  background-color:rgba(0,0,0,.70);
+  width:400px;
+  margin-left:-50%;
+  margin-right:-50%;
+}*/
