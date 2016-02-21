@@ -1,1 +1,1 @@
-# self-consciously-prententious-quote-collection
+# self-consciously-pretentious-quote-collection
