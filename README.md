@@ -1,1 +1,1 @@
-# descartes
+# self-consciously-prententious-quote-collection
